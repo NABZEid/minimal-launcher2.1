@@ -1,0 +1,14 @@
+name: minimal_launcher
+description: Launcher Android minimalis, cepat, dengan tema gelap dan terang.
+publish_to: 'none'
+version: 0.200.1+200
+
+environment:
+  sdk: ">=3.6.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
